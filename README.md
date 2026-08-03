@@ -1,2 +1,2 @@
 # AdInsight-AI
-AI-Powered Advertising Intelligence Platform for Campaign Analytics, Budget Optimization, Forecasting, and Product Analytics.
+Website Analytics & Customer Behavior Intelligence platform built with Google Analytics, BigQuery, Python, SQL, and interactive dashboards.
